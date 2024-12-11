@@ -13,18 +13,14 @@ jobs:
     name: Deploy to Cloudflare Pages
     steps:
       - uses: actions/checkout@v4
-
       - name: Setup Bun
         uses: oven-sh/setup-bun@v1
         with:
           bun-version: latest
-
       - name: Install Dependencies
         run: bun install
-
       - name: Build Site
         run: bunx @11ty/eleventy
-
       - name: Deploy to Cloudflare pages
         uses: cloudflare/wrangler-action@v3
         with:
