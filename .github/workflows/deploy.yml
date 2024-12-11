@@ -20,11 +20,9 @@ jobs:
           bun-version: latest
 
       - name: Install Dependencies
-        working-directory: website
         run: bun install
 
       - name: Build Site
-        working-directory: website
         run: bunx @11ty/eleventy
 
       - name: Deploy to Cloudflare pages
