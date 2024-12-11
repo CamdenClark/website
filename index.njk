@@ -1,0 +1,18 @@
+---
+layout: layout.njk
+---
+
+{%- for post in collections.posts | reverse -%} {%- if loop.index0 <
+5 -%}
+<article>
+    <h2>
+        <a
+            href="{{ post.url }}"
+            style="color: #ff9f43; text-decoration: none"
+        >
+            {{ post.data.title }}
+        </a>
+    </h2>
+    <p>{{ post.content | safe }}</p>
+</article>
+{%- endif -%} {%- endfor -%}
