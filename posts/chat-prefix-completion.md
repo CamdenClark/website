@@ -5,7 +5,7 @@ title: 'My favorite new prompting trick: chat prefix completion'
 
 I've been working with the Deepseek API while working on my tool [carrier.nvim](https://github.com/camdenclark/carrier.nvim).
 
-It has a new beta feature that Anthropic also has that is really excellent, called chat prefix completion. You can just set what the assistant message response should start with.
+It has a new beta feature that [[Anthropic]] also has that is really excellent, called chat prefix completion. You can just set what the assistant message response should start with.
 
 This is really useful for contexts like code completion, where you want the model to always respond with just the code you want by starting the response with three backticks and a newline (essentially saying the assistant response should start a code block).
 
