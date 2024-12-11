@@ -3,4 +3,7 @@ layout: post.njk
 title: hello world
 ---
 
-# Hello world!
+
+```py
+import foo
+```

@@ -1,4 +1,5 @@
 import { feedPlugin } from "@11ty/eleventy-plugin-rss";
+import syntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(feedPlugin, {
@@ -19,4 +20,5 @@ export default function (eleventyConfig) {
       },
     },
   });
+  eleventyConfig.addPlugin(syntaxHighlight);
 }
