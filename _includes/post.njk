@@ -9,4 +9,7 @@ tags: posts
         {{ title }}
     </h2>
     <p>{{ content | safe }}</p>
+    <div class="date cool-date-style">
+        Created: {{page.date.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'})}}
+    </div>
 </article>

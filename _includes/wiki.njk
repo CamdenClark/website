@@ -1,6 +1,6 @@
 ---
 layout: layout.njk
-date: "git Created" # This could be really resource intensive in the future.
+date: "git Last Modified" # This could be really resource intensive in the future.
 tags: wiki
 ---
 
@@ -8,5 +8,8 @@ tags: wiki
     <h2>
         {{ title }}
     </h2>
+    <div>
+        Last updated: {{page.date.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'})}}
+    </div>
     <p>{{ content | safe }}</p>
 </article>
