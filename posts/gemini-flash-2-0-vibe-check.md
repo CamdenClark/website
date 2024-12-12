@@ -3,7 +3,7 @@ layout: post.njk
 title: 'Gemini Flash 2.0 Live API fails the vibe check for me'
 ---
 
-I had a couple conversations with the new Multimodal Live API through the Google AI Studio.
+I had a couple conversations with the new [[Multimodal Live API]] through the [[Google AI Studio]].
 
 I wanted to have a voice-to-voice conversation about an idea I was working through, and wanted Flash to walk me through what the potential pitfalls are.
 
