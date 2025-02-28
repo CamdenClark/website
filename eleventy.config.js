@@ -13,11 +13,11 @@ export default function (eleventyConfig) {
     },
     metadata: {
       language: "en",
-      title: "hermiod's blog",
+      title: "camden's blog",
       subtitle: "A blog about programming and other stuff",
-      base: "https://hermiod.com/",
+      base: "https://camden.codes/",
       author: {
-        name: "hermiod",
+        name: "camden",
         email: "admin@hermiod.com",
       },
     },
