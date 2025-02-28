@@ -1,7 +1,6 @@
 ---
 layout: post.njk
 title: 'Getting Claude Code to Work with AWS Bedrock'
-date: '2025-02-27'
 ---
 
 Getting Claude Code to work with AWS Bedrock requires some configuration that isn't obvious from the documentation. Here's what I learned after working through a few issues.
@@ -33,5 +32,6 @@ There were two critical parts to making this work:
 1. **Exporting AWS credentials** from an existing profile into the current terminal environment
 2. **Setting the AWS_REGION** explicitly (even if your default AWS region is set in your config)
 
-As noted in [this GitHub issue comment](https://github.com/anthropics/claude-code/issues/6#issuecomment-2680841040), the credentials need to be properly exported to the environment. The AWS region also needs to be explicitly set as mentioned in [this GitHub issue](https://github.com/anthropics/claude-code/issues/93#issuecomment-2685165687).
-
+Sources:
+- [GitHub issue #6](https://github.com/anthropics/claude-code/issues/6#issuecomment-2680841040)
+- [GitHub issue #93](https://github.com/anthropics/claude-code/issues/93#issuecomment-2685165687)
