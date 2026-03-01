@@ -1,6 +1,8 @@
 name = "website"
 compatibility_date = "2026-03-01"
-routes = [{ pattern = "camden.sh/*", zone_name = "camden.sh" }]
+[[routes]]
+pattern = "camden.sh"
+custom_domain = true
 
 [assets]
 directory = "./public"
