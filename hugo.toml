@@ -1,0 +1,9 @@
+baseURL = 'https://camdenclark.github.io/website/'
+languageCode = 'en-us'
+title = 'Camden Clark'
+theme = 'paper'
+
+[params]
+  color = 'linen'
+  twitter = 'camdencodes'
+  github = 'camdenclark'
