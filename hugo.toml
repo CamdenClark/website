@@ -1,4 +1,4 @@
-baseURL = 'https://camdenclark.github.io/website/'
+baseURL = 'https://camden.sh/'
 languageCode = 'en-us'
 title = 'Camden Clark'
 theme = 'paper'
