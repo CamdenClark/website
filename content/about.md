@@ -7,7 +7,7 @@ I'm a software engineer with 7+ years of experience. I recently left **Ravenna**
 
 Most of my recent work lives at the intersection of LLMs and developer productivity — building retrieval pipelines, AI query assistants, and text-to-SQL systems. I care a lot about developer experience, CI/CD, and making systems fast and reliable.
 
-Outside of work I built the [Anki MCP Server](https://github.com/camdenclark/anki-mcp), which lets LLMs create Anki flashcards — it's picked up 65 stars on GitHub.
+I'm based in Seattle. Outside of work I play rec league hockey.
 
 ## Experience
 
