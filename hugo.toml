@@ -7,3 +7,6 @@ theme = 'paper'
   color = 'linen'
   twitter = 'camdencodes'
   github = 'camdenclark'
+
+[author]
+  name = 'Camden Clark'
