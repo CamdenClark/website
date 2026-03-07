@@ -8,5 +8,5 @@ theme = 'paper'
   twitter = 'camdencodes'
   github = 'camdenclark'
 
-[author]
+[params.author]
   name = 'Camden Clark'
