@@ -10,3 +10,7 @@ theme = 'paper'
 
 [params.author]
   name = 'Camden Clark'
+
+[[menus.main]]
+  name = 'About'
+  url = '/about'
