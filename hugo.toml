@@ -7,6 +7,7 @@ theme = 'paper'
   color = 'linen'
   twitter = 'camdencodes'
   github = 'camdenclark'
+  bluesky = 'camdenclark.bsky.social'
 
 [params.author]
   name = 'Camden Clark'
