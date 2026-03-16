@@ -1,0 +1,17 @@
+name: Test gcrunner
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  test:
+    runs-on: [gcrunner]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Hello from gcrunner
+        run: |
+          echo "Hello from gcrunner!"
+          uname -a
+          echo "Runner: $RUNNER_NAME"
