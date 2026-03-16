@@ -6,7 +6,7 @@ on:
 
 jobs:
   test:
-    runs-on: [gcrunner=test]
+    runs-on: [gcrunner=${{ github.run_id }}]
     steps:
       - uses: actions/checkout@v4
 
