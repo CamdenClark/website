@@ -9,6 +9,11 @@ Most of my recent work lives at the intersection of LLMs and developer productiv
 
 I'm based in Seattle. Outside of work I play rec league hockey.
 
+## Talks
+
+- [Real-World ClickHouse: Stories from Builders & Operators](https://www.youtube.com/watch?v=GGnmeJJVlBo) — ClickHouse Seattle Meetup, 2026
+- [Data Democratization with Text to SQL](https://www.youtube.com/watch?v=JCh30k5ZXzo) — OpenAI DevDay 2024, with Joyce Gordon
+
 ## Experience
 
 **Ravenna** — Software Engineer *(Mar 2025 – Mar 2026)*
