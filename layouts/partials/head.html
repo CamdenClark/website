@@ -109,7 +109,7 @@
   {{- end -}}
 
   <!-- canonical -->
-  <link rel="canonical" href="{{- .Permalink -}}" />
+  <link rel="canonical" href="{{- .Params.external_url | default .Permalink -}}" />
   {{- end -}}
   <!---->
 </head>
