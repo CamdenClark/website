@@ -3,11 +3,11 @@ title = 'About'
 date = '2026-03-07'
 +++
 
-I'm a Seattle-based senior software engineer who builds AI products end to end—from data integrations and backend services to the interfaces people use. I work best in a tight feedback loop with customers: shipping, learning from real usage, and iterating.
+I'm a software engineer who builds AI products. I work best in a tight feedback loop with customers: shipping, learning from real usage, and iterating. My work has spanned 
 
 I'm currently at **Artemis Software Works**, where I've built our evaluation framework and sandboxed code execution environment for customers. Previously, at **Amperity**, I built an AI Query Assistant used by 70% of the query engine's users.
 
-Outside of work I play rec league hockey.
+I'm based on Seattle. Outside of work, I play rec league hockey.
 
 ## Talks
 
@@ -63,4 +63,3 @@ Outside of work I play rec league hockey.
 ## Education
 
 **University of Idaho** — B.S. in Mathematics
-
