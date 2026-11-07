@@ -1,0 +1,6 @@
+<figure class="audio-example">
+  <figcaption>{{ .Get "caption" }}</figcaption>
+  <audio controls preload="none" src="{{ .Get "src" }}" aria-label="{{ .Get "caption" }}">
+    <a href="{{ .Get "src" }}">Download the recording</a> to listen.
+  </audio>
+</figure>
