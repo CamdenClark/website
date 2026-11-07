@@ -1,6 +1,6 @@
 +++
 date = '2026-11-06'
-draft = true
+draft = false
 title = "Cloudflare's System-One Model Clef-omni Has Trouble with Spanish"
 +++
 
