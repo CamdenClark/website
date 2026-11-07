@@ -1,7 +1,7 @@
 +++
 date = '2026-11-06'
 draft = false
-title = "Cloudflare's System-One Model Clef-omni Has Trouble with Spanish"
+title = "Clef-omni Struggles with Similar-Sounding Spanish Words"
 +++
 
 In [my last post](/posts/audio-decision-models/), I wrote about trying to use an audio judgment model to grade Spanish flashcards. I'm in a Spanish class right now and I figured it would be an interesting use of the new judgment models to try to create a low-latency experience for learning Spanish.
