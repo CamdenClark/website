@@ -14,6 +14,14 @@ Outside of work I play rec league hockey.
 - [OpenAI DevDay 2024 with Joyce Gordon](https://www.youtube.com/watch?v=JCh30k5ZXzo) — Using LLMs to turn natural-language questions into SQL.
 - [Real-World ClickHouse: Stories from Builders & Operators](https://www.youtube.com/watch?v=GGnmeJJVlBo) — ClickHouse Seattle Meetup, 2026
 
+## Projects
+
+- [monty-go](https://github.com/CamdenClark/monty-go) *(2026)* — A Go client for Pydantic Monty that runs sandboxed Python in crash-isolated workers, with support for host functions and resumable snapshots.
+- [gcrunner](https://github.com/CamdenClark/gcrunner) *(2026)* — Runs self-hosted GitHub Actions jobs on ephemeral Google Cloud VMs that are automatically created and torn down for each job.
+- [Jira MCP](https://github.com/CamdenClark/jira-mcp) *(2024)* — An MCP server that lets AI assistants search Jira issues with JQL and retrieve issue details.
+- [Anki MCP Server](https://github.com/CamdenClark/anki-mcp-server) *(2024)* — An MCP server that lets AI assistants browse Anki decks and create flashcards through AnkiConnect.
+- [Flyboy](https://github.com/CamdenClark/flyboy) *(2023)* — A lightweight Neovim plugin for chatting with ChatGPT directly in editor buffers, with streaming responses and customizable prompt templates.
+
 ## Experience
 
 **Artemis Software Works** — Senior Software Engineer *(Mar 2026 – Present)*
@@ -52,21 +60,7 @@ Outside of work I play rec league hockey.
 **Google Summer of Code** *(May 2017 – Sep 2017)*
 - Contributed to NetLogo Web, building import/export of world state
 
-## Projects
-
-- [monty-go](https://github.com/CamdenClark/monty-go) *(2026)* — A Go client for Pydantic Monty that runs sandboxed Python in crash-isolated workers, with support for host functions and resumable snapshots.
-- [gcrunner](https://github.com/CamdenClark/gcrunner) *(2026)* — Runs self-hosted GitHub Actions jobs on ephemeral Google Cloud VMs that are automatically created and torn down for each job.
-- [Jira MCP](https://github.com/CamdenClark/jira-mcp) *(2024)* — An MCP server that lets AI assistants search Jira issues with JQL and retrieve issue details.
-- [Anki MCP Server](https://github.com/CamdenClark/anki-mcp-server) *(2024)* — An MCP server that lets AI assistants browse Anki decks and create flashcards through AnkiConnect.
-- [Flyboy](https://github.com/CamdenClark/flyboy) *(2023)* — A lightweight Neovim plugin for chatting with ChatGPT directly in editor buffers, with streaming responses and customizable prompt templates.
-
 ## Education
 
 **University of Idaho** — B.S. in Mathematics
 
-## Skills
-
-- **Languages:** Python, TypeScript, JavaScript, Lua
-- **AI engineering:** Retrieval systems, text-to-SQL, LLM integration (OpenAI, Anthropic, open-weight models)
-- **Data & storage:** PostgreSQL, S3, Azure Blob Storage
-- **Infrastructure & delivery:** Cloudflare Workers, Durable Objects, Temporal, Terraform, CI/CD
